@@ -7,6 +7,20 @@ Their current license text is below. I'm unsure of whether this gives me permiss
 
 The XPI-file is a ZIP-file, and can be unzipped and its contents inspected as such
 
+# Installation
+
+1. Download by clicking https://github.com/Jonta/rehost-of-tabsuspender-by-hau-hau/raw/main/tabsuspender%40michalewiczpiotr.xpi
+2. Firefox might suggest opening the file in Firefox
+3. Click yes, and add extension
+4. Adjust the settings as needed
+
+For more than 1 Firefox-profile:
+
+1. Copy it to `[profilename]/extensions/`-folder
+2. Open that Firefox-profile
+3. Hamburger-menu has a yellow triangle-with-exclamation-mark-notice
+4. Click and install
+
 ```
 Firefox Tab Suspender
 
