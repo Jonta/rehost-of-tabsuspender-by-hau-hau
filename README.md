@@ -5,6 +5,7 @@ Link: https://github.com/Hau-Hau/firefox-tab-suspender/
 
 Their current license text is below. I'm unsure of whether this gives me permission to include the images by Melania Furmaniak, but have left the .XPI-file as downloaded from AMO, prioritising the ability to give people access to the extension. The images are available at https://github.com/Hau-Hau/firefox-tab-suspender/tree/develop/assets at any rate, and have been for over 2 years
 
+```
 Firefox Tab Suspender
 
 Licensing
@@ -40,7 +41,7 @@ fox-64px.png
 fox-96px.png
 
 Copyright (c) 2018 Melania Furmaniak
-http://melaniafurmaniak.wixsite.com/chilling-glow
+http://melaniafurmaniak.wixsite.com/chilling-glowhttps://github.com/Hau-Hau/firefox-tab-suspender/tree/develop/assets
 
 The artist retains all copyright and moral rights attached to this image as well as 
 any other rights which may not be detailed in this agreement.
@@ -59,3 +60,4 @@ Selling and/or redistribution of this image is forbidden.
 
 Licensee [is] allowed to crop and/or electronically alter the image to suit their purposes
 for the usage stated above.
+```
