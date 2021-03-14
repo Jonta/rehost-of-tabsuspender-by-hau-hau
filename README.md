@@ -5,7 +5,7 @@ Link: https://github.com/Hau-Hau/firefox-tab-suspender/
 
 Their current license text is below. I'm unsure of whether this gives me permission to include the images by Melania Furmaniak, but have left the .XPI-file as downloaded from AMO, prioritising the ability to give people access to the extension. The images are available at https://github.com/Hau-Hau/firefox-tab-suspender/tree/develop/assets at any rate, and have been for over 2 years
 
-The XPI-file is a ZIP-file, and can be unzipped and its contents inspected as suchhttps://github.com/Hau-Hau/firefox-tab-suspender/tree/develop/assets
+The XPI-file is a ZIP-file, and can be unzipped and its contents inspected as such
 
 ```
 Firefox Tab Suspender
